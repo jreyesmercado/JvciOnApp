@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JvciOnApp.Common", "vciOnApp.Common\JvciOnApp.Common.csproj", "{980E0B80-8812-4E37-A0EC-91D1C5ED76C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JvciOnApp.Web", "JvciOnApp.Web\JvciOnApp.Web.csproj", "{FAB74A0A-63A8-4B03-8BFB-32EDADD8764E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980E0B80-8812-4E37-A0EC-91D1C5ED76C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980E0B80-8812-4E37-A0EC-91D1C5ED76C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980E0B80-8812-4E37-A0EC-91D1C5ED76C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980E0B80-8812-4E37-A0EC-91D1C5ED76C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB74A0A-63A8-4B03-8BFB-32EDADD8764E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB74A0A-63A8-4B03-8BFB-32EDADD8764E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB74A0A-63A8-4B03-8BFB-32EDADD8764E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB74A0A-63A8-4B03-8BFB-32EDADD8764E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720C945B-9E6E-419B-8185-65A4768FEAEB}
+	EndGlobalSection
+EndGlobal
