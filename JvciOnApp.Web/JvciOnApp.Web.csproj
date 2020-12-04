@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\vciOnApp.Common\JvciOnApp.Common.csproj" />
+    <ProjectReference Include="..\JvciOnApp.Common\JvciOnApp.Common.csproj" />
   </ItemGroup>
 
 </Project>
